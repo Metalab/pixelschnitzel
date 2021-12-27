@@ -282,7 +282,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/Metalab\/hbf\/bahnsteig.json#start_rj_east_7"
+                 "value":"world:\/\/Metalab\/hbf_haupthalle.json#start_aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
