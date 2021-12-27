@@ -364,6 +364,37 @@
         }, 
         {
          "draworder":"topdown",
+         "id":25,
+         "name":"edgeland_visitor",
+         "objects":[
+                {
+                 "height":0,
+                 "id":1,
+                 "name":"",
+                 "point":true,
+                 "properties":[
+                        {
+                         "name":"getBadge",
+                         "type":"string",
+                         "value":"zchU3LzdNlEvSTDY3udul0BMOvn5A4i89ckvOVoq2kKQWZvmoY"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":0,
+                 "x":941.826086956522,
+                 "y":625.478260869565
+                }],
+         "offsetx":1.30434782608688,
+         "offsety":8.82608695652175,
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "draworder":"topdown",
          "id":5,
          "name":"floorLayer",
          "objects":[],
@@ -385,8 +416,8 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":25,
- "nextobjectid":1,
+ "nextlayerid":26,
+ "nextobjectid":2,
  "orientation":"orthogonal",
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
