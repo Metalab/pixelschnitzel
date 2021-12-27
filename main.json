@@ -156,7 +156,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/isla-nublar.json#start_Aaaaaaaaaaaa"
+                 "value":"world:\/\/lobby\/islanooblar.json#start_Aaaaaaaaaaaa"
                 }],
          "type":"tilelayer",
          "visible":true,
